@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Airline ETD Data Analysis",
+    "category": "data",
+    "description": "Analyzed estimated time of departure accuracy across American Airlines, Delta Air Lines, and United Airlines to compare airline performance.",
+    "tools": [ "Python", "Pandas", "Power BI", "Data Analysis" ]
+  },
+  {
+    "title": "GL Dining Website",
+    "category": "web",
+    "description": "Worked on requirements and website planning for a restaurant group, focusing on navigation, menus, hours, reservations, and customer information.",
+    "tools": [ "HTML", "CSS", "Web Design", "User Experience" ]
+  },
+  {
+    "title": "Zara ERP & Inventory Analysis",
+    "category": "business",
+    "description": "Explored how enterprise systems and inventory fulfillment processes support Zara's retail operations and business strategy.",
+    "tools": [ "ERP Concepts", "SAP", "Inventory", "Business Analysis" ]
+  },
+  {
+    "title": "Personal Portfolio Website",
+    "category": "web",
+    "description": "Built a responsive, multi-page portfolio to present academic experience, technical skills, and projects using web development technologies.",
+    "tools": [ "HTML", "CSS", "JavaScript", "Bootstrap" ]
+  },
+  {
+    "title": "Accounting Consolidation Analysis",
+    "category": "business",
+    "description": "Applied accounting concepts to analyze business combinations, parent-subsidiary relationships, fair value adjustments, and consolidated financial statements.",
+    "tools": [ "Excel", "GAAP", "Consolidation Worksheets", "Financial Reporting" ]
+  }
+]
